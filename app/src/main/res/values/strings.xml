@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">solovjn_42ipz_lab5</string>
+    <string name="textName1">Ім\'я</string>
+    <string name="textName2">Прізвище</string>
+    <string name="button">Обрати дисципліну</string>
+
+    <string name="textKurs">Що б ти хотів включити в курс?</string>
+    <string name="textLec">Лекції</string>
+    <string name="textPra"> Практичні</string>
+
+    <string name="textProg">Програміст</string>
+    <string name="textInform">Інформатик</string>
+
+    <string name="textLab">Лабораторні</string>
+    <string name="textChoos">Обери, яку мову ти б хотів вивчати</string>
+    <string name="buttonMes">Надіслати</string>
+    <string name="SendTo">Надіслати до</string>
+    <string-array name="data">
+        <item>JavaScript</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>C#</item>
+        <item>C++</item>
+    </string-array>
+</resources>
